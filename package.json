@@ -1,5 +1,5 @@
 {
-  "name": "@sullemanhossam/npm-github-package-example",
+  "name": "@falah-club/falah-kit",
   "version": "3.2.0",
   "description": "npm registry to GitHub Package Registry example.",
   "keywords": [
@@ -7,13 +7,13 @@
     "github",
     "npm"
   ],
-  "homepage": "https://github.com/azu/npm-github-package-example",
+  "homepage": "https://github.com/falah-club/falah-kit",
   "bugs": {
-    "url": "https://github.com/azu/npm-github-package-example/issues"
+    "url": "https://github.com/falah-club/falah-kit/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sullemanhossam/npm-github-package-example.git"
+    "url": "https://github.com/falah-club/falah-kit.git"
   },
   "license": "MIT",
   "author": "azu",
